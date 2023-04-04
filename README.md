@@ -11,13 +11,7 @@ My own implementation of the paper and is currently a copy of the original files
 > 
 [[Paper](https://arxiv.org/pdf/2109.01510.pdf)]
 [[Supplementary material](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ren_Safety-Aware_Motion_Prediction_ICCV_2021_supplemental.pdf)]
-
-## Recent Updates   
-<!-- I am sorry that I am busying with application, and I am planning to release code ASAP. -->
-<!-- :white_check_mark: Update StyleGAN2   -->
-:white_check_mark: Update data preprocessing code  
-:white_check_mark: Update model  
-:black_square_button: Training script  
+ 
 
 ## Installation ##
 
@@ -70,7 +64,7 @@ We provide a [notebook](experiments/nuScenes/data_playground.ipynb) to visualize
 
 <!-- ## Train ## -->
 
-
+Cite the original authors
 ## Citation
 ```bibtex
 @inproceedings{ren2021unseen,
