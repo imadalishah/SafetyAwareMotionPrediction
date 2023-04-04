@@ -1,6 +1,8 @@
 # Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving
 
-My own implementation of the paper and is currently a copy of the original files.
+Workng on my implementation of the oiginal paper, and the repo is currently a copy of the original files.
+
+**Citation and Original Contributors**
 
 <a href="https://arxiv.org/abs/2109.01510"><img src="https://img.shields.io/badge/arXiv-2109.01510-b31b1b.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
